@@ -1,0 +1,19 @@
+{
+  "namespace": "App",
+  "fsNamespace": "app",
+  "loader": "../app.js",
+  "global": "app.global.js",
+  "core": "app.eauvhyru.js",
+  "corePolyfilled": "app.9xdiurak.js",
+  "components": {
+    "app-home": {
+      "$": "kzbtg52e"
+    },
+    "app-profile": {
+      "$": "kzbtg52e"
+    },
+    "my-app": {
+      "$": "kzbtg52e"
+    }
+  }
+}
